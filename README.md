@@ -1,6 +1,7 @@
 # HangManGame
 # C언어와 C++로 행맨게임 만들어보자👾
 단어는 동물이야🐯🐱🐔🐭🦊🐧🐇🦮
+<img width="639" alt="첫화면" src="https://user-images.githubusercontent.com/80873447/163687208-abbfa051-9d1b-4699-8636-b718b4213d60.png">
 
 # 틀렸을때❌
 ![오류처음](https://user-images.githubusercontent.com/80873447/163686618-254c4e14-e2b2-4f1e-befa-d017061bf83f.JPG)
