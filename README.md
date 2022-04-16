@@ -9,4 +9,6 @@
 # 맞았을때✔
 ![정답](https://user-images.githubusercontent.com/80873447/163686675-7bf645b0-3b50-416a-a723-bcf5b83babc1.JPG)
 
+# Language🐾
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
